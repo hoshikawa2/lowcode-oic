@@ -123,6 +123,7 @@ https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE
 		- Necessidade de monitoramento de consumo de APIs
 		- Necessidade de integrar com mecanismos de billing das APIs
 	- Neste caso, é possível expor os serviços REST do Oracle Integration através do API Gateway
+	- https://www.ateam-oracle.com/a-simple-guide-to-setup-api-gateway-with-oracle-integration-cloud
 
 # Lifecycle Management - DEVOPS
 https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-administration/set-vb-studio-developing-visual-applications.html#GUID-8317BDD9-409E-4999-87AF-503114954050
