@@ -30,7 +30,7 @@ https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE
 https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorial-translate-app/index.html
 
 ### Criando o módulo de seleção de Línguas no Visual Builder
-https://docs.oracle.com/en/cloud/paas/integration-cloud/tutorials.html
+https://docs.oracle.com/en/cloud/paas/app-builder-cloud/tutorial-language-switcher/index.html
 
 ### Dashboards
 - O tutorial para mobile para a construção de dashboards também pode ser feito para uma aplicação Web
