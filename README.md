@@ -8,6 +8,20 @@ Abaixo, uma série de links úteis disponíveis na Internet para ajudar na const
 # Visual Builder (LOWCODE Web / Mobile)
 Este é o módulo de construção das aplicações Web e Mobile (iOS/Android) do Oracle Integration.
 
+# Instalando o OIC
+https://docs.oracle.com/en/cloud/paas/integration-cloud/oracle-integration-oci/creating-oracle-integration-instance.html#GUID-930F40E8-5149-4091-9CDA-8E05C8449BA6
+<img width="1285" alt="image" src="https://user-images.githubusercontent.com/773561/114027475-c631fa80-984d-11eb-856a-c97e0c0b425f.png">
+
+# Acessos para o OIC
+Após a criação da instância de OIC, é necessário estabelecer quem vai acessá-lo e quais são os roles para cada usuário.
+Para isto, siga estes 2 tutoriais:
+
+https://docs.oracle.com/en/cloud/paas/integration-cloud/oracle-integration-oci/assigning-service-roles-oracle-integration.html#GUID-B839F41C-445D-4137-8F2C-BF5CCBEC3D5C
+
+https://docs.cloud.oracle.com/en-us/iaas/integration/doc/configuring-access-oracle-integration-instances.html
+<img width="1332" alt="image" src="https://user-images.githubusercontent.com/773561/114027502-cfbb6280-984d-11eb-82b1-78b02a852d48.png">
+
+
 ### Video Series Tutorials
 Esta série de vídeos permite 
 - Ter uma visão geral da estrutura do Visual Builder
