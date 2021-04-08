@@ -139,3 +139,12 @@ https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE
 
 # Lifecycle Management - DEVOPS
 https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-administration/set-vb-studio-developing-visual-applications.html#GUID-8317BDD9-409E-4999-87AF-503114954050
+
+# Outros Materiais
+
+### Oracle Analytics
+https://www.oracle.com/cloud/systems-management/log-analytics.html
+https://www.oracle.com/manageability/
+
+### Microsoft Sharepoint REST API
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service?tabs=csom
